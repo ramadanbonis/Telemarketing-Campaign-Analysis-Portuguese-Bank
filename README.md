@@ -50,13 +50,10 @@
     <strong>High Subscription Periods</strong>: Many potential customers subscribe at the beginning of February, early and mid-May, early June, early and mid-August, and mid-November.
 </p>
 <p>
-    There is a tendency for students and retirees to be more interested in term deposits based on their proportions.
+    <strong>Age</strong>strong> factors might play an important role here, with students trying to build saving habits and retirees looking for ways to manage their savings wisely in retirement.
 </p>
 <p>
-    Age factors might play an important role here, with students trying to build saving habits and retirees looking for ways to manage their savings wisely in retirement.
-</p>
-<p>
-    The subscription rate for clients with a previous outcome of 'Success' (poutcome) is 64.73%, which is significantly higher compared to other statuses which are around 10%.
+    The subscription rate for clients with a <strong>previous outcome of 'Success' (poutcome) is 64.73%</strong>strong>, which is significantly higher compared to other statuses which are around 10%.
 </p>
 
 <h2>Business Recommendation</h2>
