@@ -3,6 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bank Marketing Dataset Analysis and Prediction</title>
 </head>
 <body>
 
@@ -39,6 +40,32 @@
 <h3>Target Variable</h3>
 <ul>
     <li><strong>y</strong>: Has the client subscribed to a term deposit? (binary: "yes", "no").</li>
+</ul>
+
+<h2>Insight</h2>
+<p>
+    <strong>Notable Day and Month</strong>: The day with the highest subscription rate (46.77%) and count is <strong>April 30th</strong>.
+</p>
+<p>
+    <strong>High Subscription Periods</strong>: Many potential customers subscribe at the beginning of February, early and mid-May, early June, early and mid-August, and mid-November.
+</p>
+<p>
+    There is a tendency for students and retirees to be more interested in term deposits based on their proportions.
+</p>
+<p>
+    Age factors might play an important role here, with students trying to build saving habits and retirees looking for ways to manage their savings wisely in retirement.
+</p>
+<p>
+    The subscription rate for clients with a previous outcome of 'Success' (poutcome) is 64.73%, which is significantly higher compared to other statuses which are around 10%.
+</p>
+
+<h2>Business Recommendation</h2>
+<p>
+    To optimize and increase subscription rates, consider implementing the following strategies:
+</p>
+<ul>
+    <li><strong>Promotions and Special Offers</strong>: Offer promotions or special incentives around the notable day and month with the highest subscription rates (April 30th) to further boost subscriptions.</li>
+    <li><strong>Increase Subscription Count</strong>: Introduce targeted campaigns or offers during periods outside the high subscription times to increase the overall subscription count. This can help balance the subscription rate and maintain steady growth.</li>
 </ul>
 
 <h2>Analysis and Machine Learning</h2>
