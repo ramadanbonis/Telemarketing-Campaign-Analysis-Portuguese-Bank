@@ -43,18 +43,12 @@
 </ul>
 
 <h2>Insight</h2>
-<p>
+<ul>
     <li><strong>Notable Day and Month</strong>: The day with the highest subscription rate (46.77%) and count is <strong>April 30th</strong>.</li>
-</p>
-<p>
     <li><strong>High Subscription Periods</strong>: Many potential customers subscribe at the beginning of February, early and mid-May, early June, early and mid-August, and mid-November.</li>
-</p>
-<p>
     <li><strong>Age</strong> factors might play an important role here, with students trying to build saving habits and retirees looking for ways to manage their savings wisely in retirement.</li>
-</p>
-<p>
     <li>The subscription rate for clients with a <strong>previous outcome of 'Success' (poutcome) is 64.73%</strong>, which is significantly higher compared to other statuses which are around 10%.</li>
-</p>
+</ul>
 
 <h2>Business Recommendation</h2>
 <p>
