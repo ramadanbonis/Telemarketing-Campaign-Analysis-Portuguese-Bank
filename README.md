@@ -50,7 +50,7 @@
     <strong>High Subscription Periods</strong>: Many potential customers subscribe at the beginning of February, early and mid-May, early June, early and mid-August, and mid-November.
 </p>
 <p>
-    <strong>Age</strong>strong> factors might play an important role here, with students trying to build saving habits and retirees looking for ways to manage their savings wisely in retirement.
+    <strong>Age</strong> factors might play an important role here, with students trying to build saving habits and retirees looking for ways to manage their savings wisely in retirement.
 </p>
 <p>
     The subscription rate for clients with a <strong>previous outcome of 'Success' (poutcome) is 64.73%</strong>, which is significantly higher compared to other statuses which are around 10%.
